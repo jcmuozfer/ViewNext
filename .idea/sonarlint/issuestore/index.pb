@@ -79,3 +79,5 @@ Q.idea/sonarlint/securityhotspotstore/8/f/8f397861bdec62a3377f686418fb8c695abe8a
 Q.idea/sonarlint/securityhotspotstore/8/5/85747272277e7425e0ea5136add70f4899a214bb,e\6\e6357dac223a5efd88bb1f4b6be30577fa7efd53
 Å
 Q.idea/sonarlint/securityhotspotstore/7/8/7868a544e94cd85155ff733adcaecd7112d0b7a7,5\1\51f37398de4377f7e1c74895589c9eeea5c7174c
+v
+Fuser/src/main/java/com/santander/UserProject/user/UserApplication.java,5\8\584cadc2343235dd6111e970e0ac9da007c24f3c
